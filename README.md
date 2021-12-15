@@ -1,1 +1,2 @@
-# quine
+# Quine
+Pythonで書いたシンプルなクワイン
